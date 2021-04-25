@@ -85,5 +85,5 @@ print(descending_get_primary_fur_color)
 descending_get_primary_fur_color.to_csv("squirrel_count.csv")
 ```
 
-#Lessons
+# Lesson
 1. Use the Pandas library to analyze a large set of data
